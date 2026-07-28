@@ -1,0 +1,6 @@
+{
+  "name": "English Master",
+  "description": "تطبيق شامل لتطوير وتعلّم اللغة الإنجليزية مع دروس تفاعلية، قواعد، اختبارات، ومحادثة ذكية بالذكاء الاصطناعي",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
